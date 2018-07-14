@@ -1,0 +1,10 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "quantity": "8",
+        "facility": "sjc1",
+        "auth_token": "",
+        "project_id": "",
+        "hostname": "test.example.com",
+        "state": "present"
+    }
+}
